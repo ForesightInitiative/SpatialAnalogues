@@ -1,4 +1,5 @@
 # SpatialAnalogues
 R scripts and workflows for spatial analogue modeling and foresight analysis oriented towards disease risk mapping or climate change analogues. 
-
+Purpose of the analogue tools is to do analysis on climate similarity for specific or a number of sites to identify areas for scaling of tecnologies like crop varieties. The similarity analysis can be both done for current climate but also for future climate scenarios both back ward and forward. This allows users to identify areas that nowadays already have a climate similar to the climate our site is predicted to have in the future. Potential uses are for example to survey those areas for varieties used with specific adaption traits or to check genebank holdings for accessions that were collected in those areas and might be interesting for breeding programs working towards stress tolerance.
+Or it can be used to see which areas my current site of work represents in the future which can allow us to identify. Other potential uses are creation of risk maps for diseases. If quality gridded data is available for other parameters like soil characteristics relevant to plant suitability eg pH, or socio economic indicators like market access this can be used to also to identify    
 _Work in progress_
